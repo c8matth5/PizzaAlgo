@@ -1,5 +1,8 @@
 Find a pizza place to order from
 Look at the menu
+    use your phone
+    use your computer
+    use a flyer on your fridge
 Choose the pizza that you want
     Choose the crust style
     Choose the pizza size
@@ -16,7 +19,7 @@ Choose how to order
         Pay for pizza
         Get pizza
     or decide in person
-Pick up phone
+Pick up your phone
 Find restaurant's contact
 Call the restaurant
 Order your pizza
