@@ -5,29 +5,34 @@ Look at the menu
     use your phone
     use your computer
     use a flyer on your fridge
+If you're sharing, collaborate on the following:
 Choose the pizza that you want
     Choose the crust style
     Choose the pizza size
     Choose your toppings
+    Choose how many pizzas you want to order 
 Choose how to order
     Decide online order 
         Use order form 
         Select pickup or delivery
-        Pay for pizza
+        Pay for pizza(s)
         Tip
-        Get pizza
+        Get pizza(s)
     or decide call 
-        Call to order pizza
+        Call to order pizza(s)
         Select pickup or delivery
         Pay for pizza
         Tip
-        Get pizza
+        Get pizza(s)
     or decide in person
 Pick up your phone
 Find restaurant's contact
 Call the restaurant
-Order your pizza
-Pay for your pizza
-Collect the pizza
-Eat the pizza
+Order your pizza(s)
+Pay for your pizza(s)
+Collect the pizza(s)
+Eat the pizza(s)
+    Alone
+    With friend(s)
+    With your cat/dog watching your every bite
 Review/Rate
