@@ -1,0 +1,10 @@
+1. Find a pizza place to order from
+2. Look at the menu
+3. Choose the pizza that you want
+4. Choose your toppings
+5. Pick up phone
+6. Call the restaurant
+7. Order your pizza
+8. Pay for your pizza
+9. Collect the delivered pizza
+10. Eat the pizza
