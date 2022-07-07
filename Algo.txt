@@ -7,6 +7,7 @@ Look at the menu
     use a flyer on your fridge
 If you're sharing, collaborate on the following:
 Choose the pizza that you want
+    Choose the sauce
     Choose the crust style
     Choose the pizza size
     Choose your toppings
